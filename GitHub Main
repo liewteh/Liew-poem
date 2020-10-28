@@ -3,4 +3,6 @@ Start a project (repository) "repo"
 input a project "Name"
 add file, with a file name eg. main coding
 Commit - meaning save
-
+ Branch and Pull request
+  Branch/Patch: to move on to a new idea/someone who colloborate can branch off from the main project
+  Pull & Merge: get the branch and combine back to the main process
