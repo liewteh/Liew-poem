@@ -3,9 +3,10 @@ Start a project (repository) "repo"
 input a project "Name"
 add file, with a file name eg. main coding
 Commit - meaning save
- Branch and Pull request
+ Branch and Pull request (own repo)
   Branch/Patch: to move on to a new idea/someone who colloborate can branch off from the main project
   Pull & Merge: get the branch and combine back to the main process
- Forks and Pull
+ Forks and Pull request (others repo)
   Fork: duplicate the repo, ideal for trialling new addition without affecting the original text (not own repo, but other people)
+  Pull request: as we don't have permission to edit the "main original repo", the original owner is pulling, hence we use pull request 
   
