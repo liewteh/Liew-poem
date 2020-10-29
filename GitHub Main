@@ -10,4 +10,13 @@ Commit - meaning save
   Fork: duplicate the repo, ideal for trialling new addition without affecting the original text (not own repo, but other people)
   Pull request: as we don't have permission to edit the "main original repo", the original owner is pulling, hence we use pull request 
  Issues
-  testing???
+  when an issue raised > GitHub auto assigns #??
+  use #?? to make changes > input title with #?? & descirption > commit
+  this will then update in the issue's history with a link to the change made in main repo
+  issue can be closed if the change title has the word "fixes" #??
+* every single commit with has a unique id
+  can also use the unique id to raise an issue by pasting the unique id in the descirption
+ Command Line
+  cd (change directory); pwd (print working directory); ls (list the current content directory); clear (clear the command line);
+  open . (open up finder); 
+  
